@@ -4,7 +4,7 @@
 | :---: | :----: | :---: | :----: | :----: | :----: | :----: | :----: | :----: | :----: |
 | [:bookmark:](#bookmark-基础算法) | [:racehorse:](#racehorse-操作系统) | [:hammer:](#hammer-计算机网络) | [:penguin:](#penguin-数据库) |[:floppy_disk:](#floppy_disk-Linux基础)| [:key:](#key-题解面经) |[:pencil2:](#pencil2-后端技术)| [:bell:​](#bell-高效工具) | [:watermelon:](#watermelon-最稳学习路线) |[:memo:](#memo-后记)|
 
-<br>
+<br>sdds
 
 <div align="center" color = "blue">
     <p>为了大家方便学习和资源的共享，就建立了群，如需要麻烦加我的时候备注"github",谢谢。对了，给我 Star 的必上岸呀。</p>
